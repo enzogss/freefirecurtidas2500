@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-image: url('C:/Users/kke83/Downloads/progeto de curtidas free fire/img/imagemdefundo.png'); /* Caminho da imagem de fundo */
+    background-image: url('img/imagemdefundo.png'); /* Caminho da imagem de fundo */
     background-size: cover;
     display: flex;
     justify-content: center;
